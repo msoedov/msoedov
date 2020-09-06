@@ -1,4 +1,9 @@
-### Hi there 👋
+
+<div align="center">
+
+[![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=msoedov&show_icons=true&theme=""&icon_color=586069&text_color=586069&bg_color=fff)](https://github.com/msoedov/msoedov)
+
+</div>
 
 <!--
 **msoedov/msoedov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
