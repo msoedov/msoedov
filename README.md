@@ -17,7 +17,7 @@ Here’s a glimpse into my 49 public repositories, sorted by focus area.
 
 | Project/Description | Language | Stars/Forks | GitHub |
 |---------------------|----------|-------------|--------|
-| **agentic_security** - LLM vulnerability scanner & AI red-teaming kit 🧪 | Python | 1,079 ⭐ / 165 🌿 | [Link](https://github.com/msoedov/agentic_security) |
+| **agentic_security** - LLM vulnerability scanner & AI red-teaming kit 🧪 | Python | 1,383 ⭐ / 214 🌿 | [Link](https://github.com/msoedov/agentic_security) |
 | **validex** - Structured data extraction from unstructured sources | Python | 126 ⭐ / 10 🌿 | [Link](https://github.com/msoedov/validex) |
 | **vector_lake** - S3 vector database for LLM agents & RAG | Python | 35 ⭐ / 4 🌿 | [Link](https://github.com/msoedov/vector_lake) |
 | **q-learner** - Q-learning for Open AI Gym’s SpaceInvaders | Python | 8 ⭐ / 4 🌿 | [Link](https://github.com/msoedov/q-learner) |
